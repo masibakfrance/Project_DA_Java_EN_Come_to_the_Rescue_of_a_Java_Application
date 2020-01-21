@@ -4,10 +4,10 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
 
-public class AnalyticsCounter {
+/*public class AnalyticsCounter {
 	private static int headacheCount = 0;	// initialize to 0
 	private static int rashCount = 0;		// initialize to 0
-	private static int pupilCount = 0;		// initialize to 0
+	private static int pupilCount = 0; 		// initialize to 0
 	
 	public static void main(String args[]) throws Exception {
 		// first get input
@@ -40,4 +40,4 @@ public class AnalyticsCounter {
 		writer.write("dialated pupils: " + pupilCount + "\n");
 		writer.close();
 	}
-}
+}*/
