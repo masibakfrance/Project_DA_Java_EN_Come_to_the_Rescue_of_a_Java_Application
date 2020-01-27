@@ -28,7 +28,6 @@ public class Main {
 
 		// Sort symptoms alphabetically
 		Map<String, Integer> result = new TreeMap<String, Integer>(mapOccurences);
-		System.out.println(result);
 		
 		// écriture dans le fichier
 		symptomWriterInFile.writeSymptomsInTheFile(result,"result.out");
